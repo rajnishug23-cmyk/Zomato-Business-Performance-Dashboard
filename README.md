@@ -57,13 +57,13 @@ This project presents an interactive Power BI dashboard developed to analyze Zom
 ## 📷 Dashboard Preview
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Filters
-![Filters](filters.png)
+![Filters](Filters.png)
 
 ### Business Insights
-![Insights](insights.png)
+![Insights](insights.png.png)
 
 ---
 
